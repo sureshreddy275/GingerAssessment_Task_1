@@ -4,11 +4,12 @@
 
 This is a frontend of the contact list application
 
-[Live Demo]()
+[Live Demo](https://sureshreddy_275.github.io/contact-list-reactjs/)
 
 For backend source code, follow the link below
 
-[Backend]()
+[Backend](
+https://github.com/sureshreddy_275/contact-list-nodejs)
 
 ## Requirements
 
