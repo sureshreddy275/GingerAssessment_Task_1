@@ -5,7 +5,6 @@
 This is a frontend of the contact list application
 
 [front end](https://lucandrade.github.io/contact-list-reactjs/)
-
 ## Requirements
 
 * Nodejs 4+
