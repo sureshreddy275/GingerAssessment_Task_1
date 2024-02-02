@@ -6,10 +6,6 @@ This is a frontend of the contact list application
 
 [front end](https://lucandrade.github.io/contact-list-reactjs/)
 
-For backend source code, follow the link below
-
-[Backend](https://github.com/lucandrade/contact-list-nodejs)
-
 ## Requirements
 
 * Nodejs 4+
