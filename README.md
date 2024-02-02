@@ -1,14 +1,14 @@
-# Contact List App - ReactJS
+# Login Page/Registration page - ReactJS
 
-###### by [Lucas Andrade](https://github.com/lucandrade)
+###### by [Suresh Reddy]()
 
 This is a frontend of the contact list application
 
-[Live Demo](https://lucandrade.github.io/contact-list-reactjs/)
+[Live Demo]()
 
 For backend source code, follow the link below
 
-[Backend](https://github.com/lucandrade/contact-list-nodejs)
+[Backend]()
 
 ## Requirements
 
